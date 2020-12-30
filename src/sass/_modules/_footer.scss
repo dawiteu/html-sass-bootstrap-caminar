@@ -1,0 +1,19 @@
+//@import "../../../node_modules/bootstrap/scss/variables";
+
+footer{
+    ul{
+        li{
+            a{
+                color:$text-muted;
+                i{
+                    font-size:2em;
+                }
+            }
+        }
+    }
+    a{
+        text-transform: uppercase;
+        text-decoration:underline;
+        color:$text-muted;
+    }
+}

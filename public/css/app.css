@@ -15782,6 +15782,25 @@ section div.container.bg-darked {
   background-color: #2d2d2d;
 }
 
+section div.row div img {
+  width: 100% !important;
+  height: auto;
+}
+
+footer ul li a {
+  color: #6c757d;
+}
+
+footer ul li a i {
+  font-size: 2em;
+}
+
+footer a {
+  text-transform: uppercase;
+  text-decoration: underline;
+  color: #6c757d;
+}
+
 body {
   width: 100%;
   background-image: url("../images/bg.jpg");
