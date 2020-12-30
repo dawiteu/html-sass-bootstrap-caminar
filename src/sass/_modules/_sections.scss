@@ -15,4 +15,10 @@ section{
             }
         }
     }
+    @include media-breakpoint-down("md"){
+        section{
+            padding-left:15px;
+            padding-right:15px;
+        }
+    }
 }
