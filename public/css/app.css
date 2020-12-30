@@ -15778,6 +15778,10 @@ header h1 {
   font-size: 4em;
 }
 
+section div.container.bg-darked {
+  background-color: #2d2d2d;
+}
+
 body {
   width: 100%;
   background-image: url("../images/bg.jpg");
