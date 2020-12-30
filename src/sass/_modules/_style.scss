@@ -1,0 +1,11 @@
+@import "header";
+@import "sections";
+@import "footer"; 
+
+body{
+    width:100%;
+    background-image:url('../images/bg.jpg');
+    background-position:center;
+    background-size:cover;
+    background-attachment: fixed;
+}
